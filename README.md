@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @germandreym
+- 🌱 I’m currently learning Lua fiveM

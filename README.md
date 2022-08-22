@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @germandreym
 - 🌱 I’m currently learning Lua fiveM
-- jeah and  more i don't do
+- yeah and  more i don't do

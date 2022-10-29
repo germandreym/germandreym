@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @germandreym
-- 🌱 I’m currently learning Lua fiveM
+- 🌱 I’m currently learning C#
 - yeah and  more i don't do

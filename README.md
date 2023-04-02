@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @germandreym
-- 🌱 I’m currently learning C# and lua
-- yeah and  more i don't do
+
